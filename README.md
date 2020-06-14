@@ -7,7 +7,7 @@ Projeto teste de integração Python e Sentry
 
 # Visão Geral
 
-O Sentry é uma plataforma de monitoramento de erros que pode ser integrada com várias aplicação.
+O Sentry é uma plataforma de monitoramento de erros que pode ser integrada com várias aplicações/tecnologias.
 Abaixo, veja um procedimento simples para integração com arquivos python.
 
 # Procedimentos
