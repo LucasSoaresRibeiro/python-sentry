@@ -33,3 +33,6 @@ division_by_zero = 1 / 0
 ```
 
 Visualize o erro capturado no painel do Sentry.io
+<p align="center">
+  <img src=".github/sentry-painel.jpg" width="100%">
+</p>
